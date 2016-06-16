@@ -1,0 +1,609 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ke",
+				"KEY"
+			],
+			[
+				"fr",
+				"FROM"
+			],
+			[
+				"t_ql",
+				"t_qlc_recharge_apply"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Markdown Preview/Markdown.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Markdown Preview/Markdown.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": ":w",
+		"selected_items":
+		[
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				":q",
+				"Set Syntax: SQL"
+			],
+			[
+				":",
+				":w - Save"
+			],
+			[
+				":1",
+				"Emmet: Decrement Number by 1"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"git:push",
+				"Git: Push"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"git push ",
+				"Git: Push Tags"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git:co",
+				"Git: Commit"
+			],
+			[
+				"git:add",
+				"Git: Add Current File"
+			],
+			[
+				"git:sta",
+				"Git: Status"
+			],
+			[
+				"git:",
+				"Git: Commit"
+			],
+			[
+				"git:initg",
+				"Github: Plugin Settings"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"Git:init",
+				"Git: Diff All Files (Ignore Whitespace)"
+			],
+			[
+				"can",
+				"Build: Cancel"
+			],
+			[
+				"paca",
+				"Package Control: Add Channel"
+			],
+			[
+				"SFTP",
+				"FTPSync: Browse from last path"
+			],
+			[
+				"sftp",
+				"FTPSync: Setup FTPSync in this folder"
+			],
+			[
+				"netFtp",
+				"FTPSync: Setup FTPSync in this folder"
+			],
+			[
+				"package ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"ll",
+			"LL",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/zhangqinghao/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/zhangqinghao/Documents/博客园.css",
+		"/Users/zhangqinghao/Documents/mima2.csv",
+		"/Users/zhangqinghao/Documents/58office/商机优选/2016.04.21广源2.0HBase导入数据/createHBaseTableSql.sql",
+		"/Users/zhangqinghao/Documents/upload/scf.config",
+		"/Users/zhangqinghao/Documents/svn/lead_profile/lead_profile_scf/scf-lead_profile_scf_4-0-0_BRANCH/com.bj58.bi.lead.profile.scf.monitor/src/main/resources/config/scf.config",
+		"/Users/zhangqinghao/Documents/svn/lead_profile/lead_profile_scf/scf-lead_profile_scf_4-0-0_BRANCH/com.bj58.bi.lead.profile.scf.monitor/target/classes/config/scf.config",
+		"/Users/zhangqinghao/Documents/58office/商机优选/2016.04.21广源2.0HBase导入数据/createHBaseTableSql.20160516.sql",
+		"/Users/zhangqinghao/Documents/58office/商机优选/2016.05.19广源2.0-招聘-监控脚本/web-monitor.sh",
+		"/Users/zhangqinghao/Documents/58office/商机优选/2016.05.10广源2.0登录次数过多异常/登录次数过多.sql",
+		"/Users/zhangqinghao/Documents/58office/商机优选/2016.04.21HBase导入数据/HBase.sql",
+		"/Users/zhangqinghao/Desktop/hive-init-mysql.xml",
+		"/Users/zhangqinghao/Documents/58office/商机优选/2016.04.17广源2.0二手线成单率/二手线成单率-CRM.sql",
+		"/Users/zhangqinghao/Documents/58office/商机优选/2016.04.07二手商家画像覆盖率/覆盖率.sql",
+		"/Users/zhangqinghao/Documents/58office/商机优选/2016.04.08二手商家画像升级/lead_sql.sql",
+		"/Users/zhangqinghao/Documents/58office/商机优选/2016.03.11广源2.0web项目二期/产品线.sql",
+		"/Users/zhangqinghao/Desktop/demo/商机优选-one-member.sql",
+		"/Users/zhangqinghao/Documents/郭振红/经营范围.txt",
+		"/Users/zhangqinghao/Desktop/demo/商机优选-one-lead-post.sql",
+		"/Users/zhangqinghao/Documents/58office/商机优选/2016.03.11广源2.0web项目二期/二手产线修改表结构/t_lead2_a_lead_user_login_esh.sql",
+		"/Users/zhangqinghao/Documents/58office/商机优选/2016.03.11广源2.0web项目二期/二手产线修改表结构/t_lead2_a_lead_info_post_and_ref_esh.sql",
+		"/Users/zhangqinghao/Documents/58office/商机优选/2016.03.11广源2.0web项目二期/二手产线修改表结构/t_lead2_a_crm_user_pay_esh.sql",
+		"/Users/zhangqinghao/Documents/58office/商机优选/2016.03.11广源2.0web项目二期/二手产线修改表结构/t_lead2_a_crm_attention_level_esh.sql",
+		"/Users/zhangqinghao/Documents/58office/商机优选/2016.03.11广源2.0web项目二期/二手产线修改表结构/t_lead2_a_crm_active_level_esh.sql",
+		"/Users/zhangqinghao/Documents/58office/商机优选/2016.03.11广源2.0web项目二期/二手产线修改表结构/t_lead2_data_status.sql",
+		"/Users/zhangqinghao/Documents/58office/商机优选/2016.03.14 二手车源数据/二手车源数据.txt",
+		"/Users/zhangqinghao/Documents/58office/商机优选/2016.03.14画像清理数据/清理数据.sql",
+		"/Users/zhangqinghao/Desktop/demo/商机优选-one-oppo.sql",
+		"/Users/zhangqinghao/Desktop/demo/商机优选-one-contact.sql",
+		"/Users/zhangqinghao/Documents/58office/商机优选/商机优选-英才/2016.01.13英才CRM3.0商机推送开发/英才crm3.0推送开发.txt",
+		"/Users/zhangqinghao/Desktop/demo/营销中心-回款业绩.sql",
+		"/Users/zhangqinghao/Documents/58office/商机优选/商机优选-英才/2016.01.13英才CRM3.0推送联调/准客户推送日志.log",
+		"/Users/zhangqinghao/Documents/58office/商业智能/2016.01.07机房迁移/新机房ip&域名对应关系.txt",
+		"/Users/zhangqinghao/Documents/58office/商机优选/2016.01.05-英才导数/2016.01.05-英才导数据.sh",
+		"/Users/zhangqinghao/Desktop/dm旧:",
+		"/Users/zhangqinghao/Documents/58office/商机优选/2016.01.05-英才导数/2015-12-26日chr商机.txt",
+		"/Users/zhangqinghao/Documents/58office/商业智能/2015.12.30-组织架构调整/2016-01-04组织架构调整.txt",
+		"/Users/zhangqinghao/Desktop/demo/CRM测试.txt",
+		"/Users/zhangqinghao/Desktop/demo/商机优选-垃圾数据处理.sql",
+		"/Users/zhangqinghao/Desktop/demo/商机优选-垃圾数据处理.s'q'l",
+		"/Users/zhangqinghao/Desktop/demo/商机优选-垃圾数据处理.txt",
+		"/Users/zhangqinghao/Documents/svn/document/lead/英才/开发/线索库表结构设计.sql",
+		"/Users/zhangqinghao/Documents/svn/document/lead/英才/开发/准客户表结构.sql",
+		"/Users/zhangqinghao/Desktop/商机优选-one-member.sql",
+		"/Users/zhangqinghao/Documents/svn/document/lead/赶集/开发/DB新增字段.sql",
+		"/Users/zhangqinghao/Documents/workspace/eclipce/BI/rcv_monitor/src/main/resources/config/swap.config",
+		"/Users/zhangqinghao/Documents/58office/商机优选/商机优选-赶集/CRM-t_dict_data_source.sql",
+		"/Users/zhangqinghao/Desktop/数据库结构操作20151028.sql",
+		"/Users/zhangqinghao/Documents/svn/document/lead/英才/开发/CompanySynchronization.cs",
+		"/Users/zhangqinghao/Desktop/tmp/kettle.properties.xueyintao",
+		"/usr/local/bin/iterm2-send-zmodem.sh",
+		"/usr/local/bin/iterm2-recv-zmodem.sh",
+		"/Users/zhangqinghao/Library/Application Support/Sublime Text 3/Packages/SublimeFileDiffs/FileDiffs.sublime-settings.diff",
+		"/Users/zhangqinghao/Desktop/tmp/#自定义参数",
+		"/Users/zhangqinghao/Documents/svn/document/lead/英才/开发/companies_17.xml",
+		"/Users/zhangqinghao/Desktop/demo/业务员业绩详情-开通明细.sql",
+		"/Users/zhangqinghao/Documents/58office/商业智能/报表问题/小组长业绩明细api/performance_detail.sql",
+		"/Users/zhangqinghao/Documents/svn/fangbigdata/设计与开发规范/03-DB配置规范.txt",
+		"/Users/zhangqinghao/Documents/svn/fangbigdata/设计与开发规范/04-DB导入规范.txt",
+		"/Users/zhangqinghao/Documents/svn/fangbigdata/设计与开发规范/10-调度规范.txt",
+		"/Users/zhangqinghao/Documents/svn/fangbigdata/设计与开发规范/05-导出DB规范.txt",
+		"/Users/zhangqinghao/Desktop/demo/Y07D-城市经理业绩报表-没有数据问题.sql",
+		"/Users/zhangqinghao/Documents/58office/商业智能/报表问题/crm_api.txt",
+		"/Users/zhangqinghao/Documents/svn/fangbigdata/设计与开发规范/09-HiveQL任务规范.txt",
+		"/Users/zhangqinghao/Documents/svn/fangbigdata/设计与开发规范/08-HiveQL规范.txt",
+		"/Users/zhangqinghao/Documents/svn/fangbigdata/设计与开发规范/07-DWD与MID层建表规范.txt",
+		"/Users/zhangqinghao/Documents/svn/fangbigdata/设计与开发规范/06-ODS与TMP层建表规范.txt",
+		"/Users/zhangqinghao/Desktop/demo/商机优选-商机录入问题处理.txt",
+		"/Users/zhangqinghao/Desktop/kettle.properties/kettle.properties.119.79",
+		"/Users/zhangqinghao/Documents/58office/商业智能/报表问题/业务员业绩详情-开通明细.sql",
+		"/Users/zhangqinghao/Library/Application Support/Sublime Text 3/Packages/User/SFTP.errors.log",
+		"/Users/zhangqinghao/Desktop/sftp-config-alt2.json",
+		"/Users/zhangqinghao/Desktop/sftp-config.json",
+		"/Users/zhangqinghao/Desktop/kettle.performance/kettle.performance",
+		"/Users/zhangqinghao/Desktop/sftp-config-alt3.json",
+		"/Users/zhangqinghao/Desktop/sftp-config-alt.json",
+		"/Users/zhangqinghao/Desktop/demo/商机优选-录入商机错误数据处理/商机优选-错误数据处理.sh",
+		"/Users/zhangqinghao/Desktop/商机优选-one-sql.sql",
+		"/Users/zhangqinghao/Desktop/demo/移动BI-/移动BI-info.txt",
+		"/Users/zhangqinghao/Desktop/商机-lead-acc.txt",
+		"/Users/zhangqinghao/Desktop/移动BI-雷达项目接口SQL.sql",
+		"/Users/zhangqinghao/Desktop/商机优选-one-contact.sql",
+		"/Users/zhangqinghao/Desktop/myfile/config/online/dbwww58com_bi_realtime_contract_swap.config",
+		"/Users/zhangqinghao/Desktop/demo/crm-sql.sql",
+		"/Users/zhangqinghao/Desktop/demo/Y14D-业务线指标报表.sql",
+		"/Users/zhangqinghao/Desktop/demo/Y09D-营销中心日报.sql",
+		"/Users/zhangqinghao/Desktop/data-integration/samples/transformations/HTTP Client - simple retrieval example.ktr",
+		"/Users/zhangqinghao/Desktop/demo/商机优选-录入商机错误数据处理/memb.sh",
+		"/Users/zhangqinghao/Desktop/demo/商机优选-录入商机错误数据处理/contact.sh",
+		"/Users/zhangqinghao/Desktop/demo/商机优选-录入商机错误数据处理/run.sh",
+		"/Users/zhangqinghao/Desktop/demo/商机优选-录入商机错误数据处理/circle.sh",
+		"/Users/zhangqinghao/Desktop/demo/商机优选-错误数据处理.sh",
+		"/Users/zhangqinghao/Desktop/苍穹导数-osd.sql",
+		"/Users/zhangqinghao/Desktop/demo/lead-action-api 测试URL和参数.txt",
+		"/Users/zhangqinghao/Desktop/demo/苍穹-HiveQL.sql",
+		"/Users/zhangqinghao/Desktop/my_tools/item免密码远程登录.sh",
+		"/Users/zhangqinghao/Documents/svn/fangbigdata/设计与开发规范/ODS与TMP层建表规范.txt",
+		"/Users/zhangqinghao/Documents/svn/fangbigdata/设计与开发规范/DWD与MID层建表规范.txt",
+		"/Users/zhangqinghao/Documents/svn/fangbigdata/设计与开发规范/DB导入规范.txt",
+		"/Users/zhangqinghao/Desktop/demo/商机优选-192.168.120.186测试部署.sh",
+		"/Users/zhangqinghao/Desktop/商机优选-one-lead-post.sql",
+		"/Users/zhangqinghao/Desktop/商机优选-one-oppo.sql",
+		"/Users/zhangqinghao/Desktop/login.sh",
+		"/Users/zhangqinghao/Desktop/myfile/pw.txt",
+		"/Users/zhangqinghao/Desktop/myfile/db.txt",
+		"/Users/zhangqinghao/Desktop/demo/svn-命令.sh",
+		"/Users/zhangqinghao/Desktop/myfile/config/online/dbwww58com_bi_realtime_bi_dw3.properties",
+		"/Users/zhangqinghao/Desktop/myfile/config/online/dbwww58com_bi_realtime_bi_dw3_swap.config",
+		"/Users/zhangqinghao/Desktop/myfile/config/online/dbwww58com_bi_realtime_bi_dw.properties",
+		"/Users/zhangqinghao/Desktop/demo/商机优选-统计job_log日志/log_count.sh",
+		"/Users/zhangqinghao/Documents/svn/fangbigdata/设计与开发规范/仓库分层原则.txt",
+		"/Users/zhangqinghao/Documents/svn/fangbigdata/设计与开发规范/HiveQL任务规范.txt",
+		"/Users/zhangqinghao/Documents/svn/fangbigdata/设计与开发规范/数据更新方案介绍.txt",
+		"/Users/zhangqinghao/Documents/svn/fangbigdata/设计与开发规范/HiveQL规范.txt",
+		"/Users/zhangqinghao/Documents/svn/fangbigdata/设计与开发规范/调度规范.txt",
+		"/Users/zhangqinghao/Documents/58office/商业智能/苍穹数据平台/o_h_t_contract.sql",
+		"/Users/zhangqinghao/Documents/58office/商业智能/苍穹数据平台/o_h_t_order_oper_log.sql",
+		"/Users/zhangqinghao/Documents/58office/商业智能/苍穹数据平台/o_h_t_pay_log.sql",
+		"/Users/zhangqinghao/Documents/58office/商业智能/苍穹数据平台/o_m_t_order_oper_log.sql",
+		"/Users/zhangqinghao/Desktop/scp_zone_insert.sql",
+		"/Users/zhangqinghao/Documents/svn/fangbigdata/设计与开发规范/DB配置规范.txt",
+		"/Users/zhangqinghao/Desktop/手机号码网段.txt",
+		"/Users/zhangqinghao/Desktop/FineReport/bin/designer.bat",
+		"/Users/zhangqinghao/Desktop/scp_zon.sql",
+		"/Users/zhangqinghao/Desktop/商机优选-one-solr.txt",
+		"/opt/soft/kettle/data-integration/Data Integration 64-bit.app/Icon_",
+		"/Users/zhangqinghao/Desktop/lead-web20150728城市.log",
+		"/Users/zhangqinghao/Desktop/temp"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<open files>",
+			"",
+			"<open files>",
+			"",
+			"/Users/zhangqinghao/Documents/svn/bi-kettle-etl",
+			"/Library/Documentation/User Information.localized,/Users"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"`t_lead2_profile2_web_log_esh_esc`.",
+			"t_lead2_profile2_web_log_esh_esc",
+			"files/lyzg/cnblogs.css",
+			"http://files.cnblogs.com/files/lyzg/cnblogs.css",
+			"partition_dt",
+			"#\n",
+			"IF(DATEDIFF(modify_time,modify_time)=0,0,IF(DATEDIFF(modify_time,modify_time)<=10,10,999))",
+			"bind_time",
+			"datediff",
+			"if",
+			"IF",
+			"if",
+			"IF",
+			"if",
+			"datediff",
+			"	",
+			"a",
+			"73",
+			"15010056903",
+			"t_lead2_",
+			"lead_user",
+			"t_lead2_a_click_up_percent",
+			"	",
+			"\"",
+			"\\1",
+			"\"",
+			"	",
+			"20160313",
+			"20160310",
+			";",
+			"bilead9.db.58dns.org",
+			"bjtj103-12-247.58os.org",
+			"leadChrItem.s",
+			"leadChr",
+			" ",
+			"1297908204708",
+			"662089816578",
+			"13763611600324",
+			"-35691146170903",
+			"13187175007141",
+			"1286739436968",
+			"35846499143958",
+			"35774147667735",
+			"13187175007141",
+			"13881335140615",
+			"13029528931333",
+			"24005924836615",
+			"13881335140615",
+			"33453921020679",
+			"13029528931333",
+			"88897643816",
+			"13138449370885",
+			"1291381174004",
+			"32744360224775",
+			"1291381174004",
+			"536068478791",
+			"596021642757",
+			"5670516254471",
+			"117417488245",
+			"5670516254471",
+			"6886357652743",
+			"1514672497927",
+			"28747611576328",
+			"35369353625614",
+			"35443265335056",
+			"31007016124428",
+			"23742799064070",
+			"8529719604742",
+			"35404431296015",
+			"15276570231046",
+			"35423480801296",
+			"35277976676880",
+			"4948385014023",
+			"18722456618247",
+			"13436811636260",
+			"15816579573510",
+			"23030151",
+			"26467624822535",
+			"35383382255120",
+			"35311899990289",
+			"14322518426374",
+			"17570706689543",
+			"35380618334737",
+			"13170982",
+			"2628398449075958",
+			"18810289495303",
+			"2628398449075958",
+			"27955312888070",
+			"13479244017704",
+			"2628398449075958",
+			"22575616232454",
+			"16237118",
+			"15875190092295",
+			"16894516529926",
+			"19252267758854",
+			"27950035858694",
+			"8656478141446",
+			"58885",
+			"4614413112839",
+			"28165129067015",
+			"1120923988999",
+			"19326788340486",
+			"472031781127",
+			"34912697016583",
+			"21180613323270",
+			"30226369879050",
+			"34877349284876",
+			"25119548181254",
+			"5262319443975",
+			"26799835227399",
+			"sales_daily_open_amount_all_detail",
+			"sales_daily_open_amount_all_fact",
+			"t_scp_rcv_contract_deferred",
+			"decimal",
+			"double",
+			"ERROR",
+			"34762911132169",
+			"city_service_line_pfm",
+			"SaveReturnIdendityId",
+			"SpiderNewCustomerLocalInfo",
+			"companySyncXmlStartTime",
+			"CompanySyncXmlStartTime",
+			"ProcessOneOfCompaniesCompany",
+			"GetDirList",
+			"GetFileList",
+			"ProcessOneOfCompaniesCompany",
+			"GetXmlToClass",
+			" \n"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\n",
+			"",
+			"\\001",
+			"'",
+			"\\001",
+			"'",
+			"\\1",
+			";\n",
+			"leadChrItem.g",
+			"",
+			"${#date(0,0,-1):yyyyMMdd#}",
+			"${#date(0,0,-1):yyyy-MM-dd#}",
+			"2015-10-09",
+			"20151009",
+			", ",
+			",",
+			"    ",
+			"",
+			"t",
+			"",
+			"t",
+			"16394787",
+			"33522432549386",
+			"-13060516096581",
+			"-13050142973217",
+			"\n",
+			"\");\n",
+			");\n",
+			"\", \"\"\n",
+			"\"\n",
+			"\",\"\n",
+			"\n",
+			"'1'\n",
+			"\n",
+			"\\n,\n",
+			"\\n;\n",
+			"();\n",
+			"\n",
+			"();\n",
+			";\n",
+			"();",
+			"",
+			"','",
+			""
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 112.0
+	},
+	"output.git":
+	{
+		"height": 88.0
+	},
+	"output.markdown":
+	{
+		"height": 88.0
+	},
+	"output.sftp":
+	{
+		"height": 160.0
+	},
+	"pinned_build_system": "",
+	"project": "not.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"http",
+				"Desktop/data-integration/samples/transformations/HTTP Client - simple retrieval example.ktr"
+			],
+			[
+				"",
+				"test.txt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 274.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
