@@ -1,8 +1,0 @@
-#### git常用命令
-1. 将修改添加到缓存
-`git add <filename>` 或者 `git add *`
-2. 提交并保存修改到本地
-`git commit -m "修改内容"`
-3. 将修改提交到远端仓库,以`master`为例
-`git push origin master`
-
