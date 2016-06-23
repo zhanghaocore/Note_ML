@@ -1,8 +1,23 @@
-#### git常用命令
-1. 将修改添加到缓存
-`git add <filename>` 或者 `git add *`
-2. 提交并保存修改到本地
-`git commit -m "修改内容"`
-3. 将修改提交到远端仓库,以`master`为例
-`git push origin master`
+### git常用命令
+* 检出git服务器上的仓库
+`git clone username@host:/path/to/repository`
 
+* 提交并保存修改到git服务器
+	1. 将修改添加到缓存`git add <filename>` 或者 `git add *`
+	2. 提交并保存修改到本地`git commit -m "修改内容"`
+	3. 将修改提交到远端仓库,以`master`为例`git push origin master`
+	4.如果你还没有克隆现有仓库，并欲将你的仓库连接到某个远程服务器，你可以使用如下命令添加：`git remote add origin <server>`
+* 分支
+	1.创建一个叫做“branch_*”的分支，并切换过去：
+	`git checkout -b branch_*`
+	2.切换回主分支：
+	`git checkout master`
+	3.再把新建的分支删掉：
+	`git branch -d feature_*`
+	4.除非你将分支推送到远端仓库，不然该分支就是 不为他人所见的：
+	`git push origin <branch>`
+* 更新合并
+	1.更新你的本地仓库至最新改动，执行：
+	`git pull`
+	2.合并其他分支(如：branch_*)到当前分支(如：master)：`git merge branch_*`
+	
