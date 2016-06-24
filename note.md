@@ -1,5 +1,3 @@
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>
 #笔记
 ##数学-线性代数
 ###矩阵
@@ -13,5 +11,12 @@
     ![alt text](https://github.com/zhanghaocore/Note_ML/blob/Note_ML_local/mathImg/matrix_nature_3.png "n阶行列式的性质3")
     + **推论1** 某行元素全为零的行列式其值为零。
     + **性质4** 行列式中两行对应元素相等，其值为零，即当 
-    ![alt text](https://chart.googleapis.com/chart?cht=tx&chl=a_{il}=a_{jl({i\neqj,l=1,2,...,n})} "n阶行列式的性质3")时有
-$$a_{il}=a_{jl({i\neq j,l=1,2,...,n})}$$
+    ![alt text](https://github.com/zhanghaocore/Note_ML/blob/Note_ML_local/mathImg/matrix_nature_4_1.png "n阶行列式的性质3")时有
+    
+    ![alt text](https://github.com/zhanghaocore/Note_ML/blob/Note_ML_local/mathImg/matrix_nature_4.png "n阶行列式的性质4")
+    + **推论2** 行列式中两行对应元素成比例，其值为零
+    + **性质5** 在行行列式中，把某行各元素分别乘非零常数k，再加到另一行的对应元素上，行列式的值不变（简称：对行列式做倍加行变换，其值不变），即：
+    ![alt text](https://github.com/zhanghaocore/Note_ML/blob/Note_ML_local/mathImg/matrix_nature_5.png "n阶行列式的性质5")
+    + **性质6** （反对称性质） 行列式的两行对换，行列式的值反号。
+    + **性质7** 行列式某行的元素乘另一行对应元素的代数余子式之和等于零，即：
+    ![alt text](https://github.com/zhanghaocore/Note_ML/blob/Note_ML_local/mathImg/matrix_nature_7.png "n阶行列式的性质7")
