@@ -3,9 +3,9 @@
 ###矩阵
 + n阶行列式的性质。
 
-    + **性质1**行列式的行与列（按原顺序）互换，其值不变。
+    + **性质1** 行列式的行与列（按原顺序）互换，其值不变。
 
-    + **性质2**行列式对任意一行按下式展开，其值相等
+    + **性质2** 行列式对任意一行按下式展开，其值相等
     ![alt text](https://github.com/zhanghaocore/Note_ML/blob/Note_ML_local/mathImg/matrix_nature_2.png "n阶行列式的性质2")
     + **性质3**（线性性质）有以下两条：
     ![alt text](https://github.com/zhanghaocore/Note_ML/blob/Note_ML_local/mathImg/matrix_nature_3.png "n阶行列式的性质3")
@@ -20,3 +20,5 @@
     + **性质6** （反对称性质） 行列式的两行对换，行列式的值反号。
     + **性质7** 行列式某行的元素乘另一行对应元素的代数余子式之和等于零，即：
     ![alt text](https://github.com/zhanghaocore/Note_ML/blob/Note_ML_local/mathImg/matrix_nature_7.png "n阶行列式的性质7")
++ 克拉默(Cramer)法则。
+    + **定义** n个未知量n个方程的线性方程组，在系数行列式不等于零时的行列式解法，通常称为**克拉默(Cramer)法则**
