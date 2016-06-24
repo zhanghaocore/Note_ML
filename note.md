@@ -14,4 +14,4 @@
     + **推论1** 某行元素全为零的行列式其值为零。
     + **性质4** 行列式中两行对应元素相等，其值为零，即当 
     ![alt text](https://chart.googleapis.com/chart?cht=tx&chl=a_{il}=a_{jl({i≠j,l=1,2,...,n})} "n阶行列式的性质3")时有
-$$a_{il}=a_{jl({i≠j,l=1,2,...,n})}$$
+$$a_{il}=a_{jl({i\neq j,l=1,2,...,n})}$$
