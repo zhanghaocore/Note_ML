@@ -1,5 +1,5 @@
-<script type="text/javascript" src="https://github.com/zhanghaocore/Note_ML/blob/Note_ML_local/MathJax.js?config=default"></script>
-
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
 #笔记
 ##数学-线性代数
 ###矩阵
@@ -12,5 +12,6 @@
     + **性质3**（线性性质）有以下两条：
     ![alt text](https://github.com/zhanghaocore/Note_ML/blob/Note_ML_local/mathImg/matrix_nature_3.png "n阶行列式的性质3")
     + **推论1** 某行元素全为零的行列式其值为零。
-    + **性质4** 行列式中两行对应元素相等，其值为零，即当 <img src="https://chart.googleapis.com/chart?cht=tx&chl=\Large a_{il}=a_{jl({i≠j,l=1,2,...,n})}" style="border:none;"> 时有
+    + **性质4** 行列式中两行对应元素相等，其值为零，即当 
+    ![alt text](https://chart.googleapis.com/chart?cht=tx&chl=a_{il}=a_{jl({i≠j,l=1,2,...,n})} "n阶行列式的性质3")时有
 $$a_{il}=a_{jl({i≠j,l=1,2,...,n})}$$
