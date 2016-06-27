@@ -1,3 +1,8 @@
+<script type="text/javascript"
+  src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+
 #笔记
 ##数学-线性代数
 ###行列式
@@ -23,24 +28,33 @@
 + **克拉默(Cramer)法则**
     + **定义** n个未知量n个方程的线性方程组，在系数行列式不等于零时的行列式解法，通常称为**克拉默(Cramer)法则**
 + **矩阵**
-    + **定义*如果两个矩阵A和B的行数和列数分别相等，且各对应的元素也相等，就称A和B相等，计作:A=B。
+    + **定义**如果两个矩阵A和B的行数和列数分别相等，且各对应的元素也相等，就称A和B相等，计作:A=B。
     +  **矩阵的加法** 设A和B行数和列数分别相等，则A+B等于A和B对应元素的加和后所得的矩阵。
         1. 交换律：A+B=B+A
         2. 结合律：(A+B)+C=A+(B+C)
         3. 零矩阵满足：A+0=A,其中0是与A同型的零矩阵
         4. A-B=A+(-B)
-    +  **矩阵的乘法**
+    +  **矩阵的数量乘法（简称数乘）**
         + **定义** 设k是数域F中的任意一个数,规定：
-            ![alt text](https://github.com/zhanghaocore/Note_ML/blob/Note_ML_local/mathImg/matrix_dingyi_2.4.png "矩阵乘法定义")
+            ![alt text](https://github.com/zhanghaocore/Note_ML/blob/Note_ML_local/mathImg/matrix_dingyi_2.4.png "矩阵数乘定义")
 
-        并称这个矩阵为k与A的数量乘积
+        并称这个矩阵为k与A的**数量乘积**
 
-
-
-
-
-
-
+        + **数量乘法的运算律**
+            1. 1A=A
+            2. (kl)A=k(lA)
+            3. (k+l)A=kA+lA
+            4. k(A+B)=kA+kB
+    + **矩阵的乘法**
+        + **定义** 设A是一个 m X n 矩阵，B是一个 n X s 矩阵，即
+        ![alt text](https://github.com/zhanghaocore/Note_ML/blob/Note_ML_local/mathImg/matrix_dingyi_2.5.png "矩阵乘法定义")
+        + **矩阵运算律**
+            1. 结合律(AB)C=A(BC)
+            2. 数乘结合律k(AB)=(kA)B=A(kB),其中k是数
+            3. 左分配率A(B+C)=AB+AC
+               右分配率(B+C)A=BA+CA
+        + **单位矩阵** 主对角线全为1，其余元素全为零的n阶矩阵，称为n阶单位矩阵(简称单位矩阵)，记作$$I_{n}$$
+        + 
 
 
 
