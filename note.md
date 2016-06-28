@@ -78,5 +78,14 @@
         
         是一个n阶矩阵,如果![alt text](https://github.com/zhanghaocore/Note_ML/blob/master/mathImg/matrix_zhuanzhi_2.12_2.png "矩阵转置2.12")则称A为对称矩
         阵;如果![alt text](https://github.com/zhanghaocore/Note_ML/blob/master/mathImg/matrix_zhuanzhi_2.12_3.png "矩阵转置2.12")则称 A为反对称矩阵.
-
-
+    + **可逆矩阵的逆矩阵**
+        + **定义2.13** 对于矩阵![alt text](https://github.com/zhanghaocore/Note_ML/blob/master/mathImg/matrix_zhuanzhi_2.13_1.png "逆矩阵定义2.13"),如果存在矩阵
+        
+        ![alt text](https://github.com/zhanghaocore/Note_ML/blob/master/mathImg/matrix_zhuanzhi_2.13_2.png "逆矩阵定义2.13")
+        ,使得 AB = BA = I,                      (2. 22)
+        就称 A为可逆矩阵(简称 A可逆), 并称 B 是 A 的逆矩阵, 记作
+        ![alt text](https://github.com/zhanghaocore/Note_ML/blob/master/mathImg/matrix_zhuanzhi_2.13_3.png "逆矩阵定义2.13")
+        由定义可知,可逆矩阵及其逆矩阵是同阶方阵 . 由于(2. 22)式中 , A 与 B 的地位是平等的 , 所以也可称 A 是 B 的逆矩阵 . 由定义 2. 13 立即可知 , 单位阵 I 的逆矩阵是其自身 .
+        + **定理2.2** 若A是可逆矩阵,则A的逆矩阵是唯一的.
+        + **定义2.14** 设n阶矩阵![alt text](https://github.com/zhanghaocore/Note_ML/blob/master/mathImg/matrix_zhuanzhi_2.14_1.png "逆矩阵定义2.14")是行列式detA中元 素a_{ij} 的代数余子式,我们称
+        ![alt text](https://github.com/zhanghaocore/Note_ML/blob/master/mathImg/matrix_zhuanzhi_2.14_2.png "逆矩阵定义2.14")
