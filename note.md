@@ -57,10 +57,11 @@
         + **数量矩阵** 主对角线全为非零数k，其余元素全为零的n阶矩阵，称为n阶数量矩阵，计作kI_{n}或kI或kE。
         + **对角矩阵** 非主对角元皆为零的n阶矩阵称为n阶对角矩阵（简称对角阵），计作^
         + **上三角矩阵和下三角矩阵**
-        + **行列式乘积** 设A,B是两个n阶矩阵,则乘积AB的行列式等 于 A 和 B 的行列式的乘积 , 即|AB|=|A||B| .
-
-
-
+        + **定理2.1** 设A,B是两个n阶矩阵,则乘积AB的行列式等 于 A 和 B 的行列式的乘积 , 即|AB|=|A||B| .
+        + **定义** 设A是n阶矩阵,k个A的连乘积称为A的k次最后,我们定义方阵的幂和方阵的多项式 . 幂,记作 Ak ,即 
+        ![alt text](https://github.com/zhanghaocore/Note_ML/blob/Note_ML_local/mathImg/matrix_dingyi_2.9.png "矩阵定义2.9")
+        + **定义** 设![alt text](https://github.com/zhanghaocore/Note_ML/blob/Note_ML_local/mathImg/matrix_dingyi_2.10_1.png "矩阵定义2.10")是x的k 次多项式 , A 是 n 阶矩阵 , 则
+        ![alt text](https://github.com/zhanghaocore/Note_ML/blob/Note_ML_local/mathImg/matrix_dingyi_2.10_2.png "矩阵定义2.10")
 
 
 
