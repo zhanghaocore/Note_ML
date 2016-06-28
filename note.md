@@ -62,8 +62,13 @@
         ![alt text](https://github.com/zhanghaocore/Note_ML/blob/Note_ML_local/mathImg/matrix_dingyi_2.9.png "矩阵定义2.9")
         + **定义** 设![alt text](https://github.com/zhanghaocore/Note_ML/blob/Note_ML_local/mathImg/matrix_dingyi_2.10_1.png "矩阵定义2.10")是x的k 次多项式 , A 是 n 阶矩阵 , 则
         ![alt text](https://github.com/zhanghaocore/Note_ML/blob/Note_ML_local/mathImg/matrix_dingyi_2.10_2.png "矩阵定义2.10")
-
-
+    + **矩阵的转置 对称矩阵**
+        + **定义** 把一个m×n矩阵
+            
+        ![alt text](https://github.com/zhanghaocore/Note_ML/blob/Note_ML_local/mathImg/matrix_dingyi_2.11_1.png "矩阵转置2.11")
+        的行列互换得到的一个 n×m矩阵,称之为A的转置矩阵,记作A_{T} 或A′,即
+        
+        ![alt text](https://github.com/zhanghaocore/Note_ML/blob/Note_ML_local/mathImg/matrix_dingyi_2.11_2.png "矩阵转置2.11")
 
 
 
